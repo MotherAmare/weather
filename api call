@@ -1,0 +1,1 @@
+curl --request GET --url 'https://api.tomorrow.io/v4/weather/forecast?location=42.3478,-71.0466&apikey=hZJhI33ZA2nL6Hle7ZMXoKxgE0NG5cLk'
